@@ -1,0 +1,6 @@
+{
+  "servers": [
+    { "name": "Scrapline PvP", "code": "SLPV", "about": "Dedicated · PvP · wipes every Thursday" },
+    { "name": "Scrapline PvE", "code": "SLPE", "about": "Dedicated · PvE · wipes monthly" }
+  ]
+}
