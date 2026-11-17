@@ -2,7 +2,7 @@
 
 A 3D survival game in your browser, with dedicated PvP and PvE servers, friends, and multiplayer.
 
-**▶ Play: https://llHarrison.github.io/scrapline/**
+**▶ Play: https://nobluezz.github.io/scrapline/**
 
 Works on Mac, Windows, Linux and Chromebook in any up-to-date browser (Chrome, Edge, Firefox or Safari). Nothing to install.
 
