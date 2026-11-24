@@ -1,0 +1,13 @@
+Scrapline
+Copyright (c) 2026 nobluez. All rights reserved.
+
+Scrapline (the game's code, its page, the server launcher, and everything
+else made for it) is not open source and is not in the public domain. No
+one may copy, share, change, sell or publish it, in whole or in part,
+without written permission from nobluez.
+
+Scrapline uses a few things made by other people, each under its own free
+license that allows use in a game like this one (three.js and PeerJS: MIT;
+the fonts: SIL Open Font License; the photo textures: CC0). They remain
+the work of their authors and are listed in THIRD-PARTY-NOTICES.txt, and in
+game under Credits. Nothing in this notice applies to them.

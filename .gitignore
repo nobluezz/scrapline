@@ -1,0 +1,9 @@
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+node_modules/
+.env*
+*.log
